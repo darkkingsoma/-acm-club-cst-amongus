@@ -14,3 +14,15 @@ p{
     margin-bottom: 10px;
     
 }
+.footer-div{
+    background-color: orange;
+    height: auto;
+    width: full;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+.footer-logo{
+    border-radius: 50%; 
+}
