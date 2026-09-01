@@ -12,5 +12,9 @@ title{
 }
 p{
     margin-bottom: 10px;
-    
+    text-align: justify;
+}
+img{
+    max-width: 100%;
+    height: auto;
 }
